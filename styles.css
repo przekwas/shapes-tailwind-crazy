@@ -1,0 +1,26 @@
+#menu-div {
+	left: -417px;
+}
+
+.canvas {
+	height: 600px;
+	width: 600px;
+}
+
+.info-panel {
+	height: 600px;
+	width: 300px;
+}
+
+.rectangle {
+	background-color: rgba(239, 68, 68, 0.75);
+}
+
+.square {
+	background-color: rgba(59, 130, 246, 0.75);
+}
+
+.circle {
+	background-color: rgba(245, 158, 11, 0.75);
+	border-radius: 50%;
+}
